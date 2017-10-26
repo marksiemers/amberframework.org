@@ -93,7 +93,7 @@
           a.list-group-item data-parent="#menu2" href="#getting-started/views/layouts.md" Layouts
           a.list-group-item data-parent="#menu2" href="#getting-started/views/templates.md"  Templates
           a.list-group-item data-parent="#menu2" href="#getting-started/views/partials.md"  Partials
-          a.list-group-item data-parent="#menu2" href="#getting-started/views/jasper-helpers.html"  View Helpers
+          a.list-group-item data-parent="#menu2" href="#getting-started/views/jasper-helpers.md"  View Helpers
 
       a.list-group-item href="#getting-started/mailers/README.md" Mailers
 
