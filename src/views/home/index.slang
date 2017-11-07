@@ -7,7 +7,7 @@ main.main-content
           strong
             | Bare metal performance
         h2
-          | Fun. Statically Typed. High Performance.
+          | Productivity. Performance. Happiness.
         hr
         p.lead
           | Amber makes building web applications simple, fast and enjoyable without sacrificing performance.
